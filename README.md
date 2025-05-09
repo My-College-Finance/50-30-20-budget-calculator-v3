@@ -35,19 +35,6 @@ Try the calculator live in your browser:
 2.  **Locally:** Clone or download the repo and open `index.html` in any modern browser.
 3.  **Embed on Your Site:** Use this iframe code to embed it on any website:
 
-    ```html
-    <iframe
-        src="https://my-college-finance.github.io/50-30-20-budget-calculator-v3/](https://50-30-20-budget-calculator-mcf.replit.app/"
-        width="100%"
-        height="880"
-        style="border: 1px solid #ccc;"
-        title="50/30/20 Budget Calculator"
-        allowfullscreen>
-    </iframe>
-    ```
-
----
-
 ## 🛠️ Tech Stack
 
 *   HTML5  
