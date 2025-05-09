@@ -37,7 +37,7 @@ Try the calculator live in your browser:
 
     ```html
     <iframe
-        src="https://my-college-finance.github.io/50-30-20-budget-calculator-v3/"
+        src="https://my-college-finance.github.io/50-30-20-budget-calculator-v3/](https://50-30-20-budget-calculator-mcf.replit.app/"
         width="100%"
         height="880"
         style="border: 1px solid #ccc;"
