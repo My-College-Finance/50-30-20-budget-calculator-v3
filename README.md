@@ -11,7 +11,7 @@ A modern, responsive budgeting tool by **[My College Finance](https://www.mycoll
 
 Try the calculator live in your browser:
 
-🚀 **[Launch 50/30/20 Budget Calculator](https://my-college-finance.github.io/50-30-20-budget-calculator-v3/)** 🚀
+🚀 **[Launch 50/30/20 Budget Calculator]([https://my-college-finance.github.io/50-30-20-budget-calculator-v3/](https://50-30-20-budget-calculator-mcf.replit.app/))** 🚀
 
 ---
 
@@ -31,7 +31,7 @@ Try the calculator live in your browser:
 
 ## 📘 How to Use
 
-1.  **Online:** Use the [**Launch Link**](https://my-college-finance.github.io/50-30-20-budget-calculator-v3/) to open the calculator. All calculations run in-browser.
+1.  **Online:** Use the [**Launch Link**]([https://my-college-finance.github.io/50-30-20-budget-calculator-v3/](https://50-30-20-budget-calculator-mcf.replit.app/)) to open the calculator. All calculations run in-browser.
 2.  **Locally:** Clone or download the repo and open `index.html` in any modern browser.
 3.  **Embed on Your Site:** Use this iframe code to embed it on any website:
 
